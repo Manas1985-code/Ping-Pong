@@ -1,0 +1,28 @@
+.heading
+{
+    width: 100%;
+    text-align: center;
+}
+
+#footer
+{
+    margin-bottom: 0;
+    width: 100%;
+    color: bisque;
+}
+
+.modal-body
+{
+    text-align: center;
+    font-size: 22px;
+}
+
+.modal-dialog
+{
+    width: 70%;
+}
+
+body
+{
+    text-align: center;
+}
